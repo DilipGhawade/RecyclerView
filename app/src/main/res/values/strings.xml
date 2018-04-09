@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    
+    <string-array name="name">
+        <item>"Dilip"</item>
+        <item>"Dilip"</item>
+        <item>"Dilip"</item>
+        <item>"Dilip"</item>
+        <item>"Dilip"</item>
+        <item>"Dilip"</item>
+        <item>"Dilip"</item>
+   </string-array>
+
+    <string-array name="Surname">
+
+        <item>"Ghawade"</item>
+        <item>"Ghawade"</item>
+        <item>"Ghawade"</item>
+        <item>"Ghawade"</item>
+        <item>"Ghawade"</item>
+        <item>"Ghawade"</item>
+        <item>"Ghawade"</item>
+    </string-array>
+    
+</resources>
